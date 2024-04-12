@@ -1,7 +1,7 @@
 #!python3
 
-print()
-exit()
+print("Hello world")
+exit('#')
 """
 Q1. 
 Modify line 3 so that the program prints "Hello world"
